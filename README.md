@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+## :rocket: About Me 
+:yum: I'm Boon Long, currently a Freshmen at the National University of Singapore (NUS) pursuing my Bachelor in Business Analytics.
+
+
 <!--
 **hengbl/hengbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
