@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## :rocket: About Me 
-:yum: I'm Boon Long, currently a Freshmen at the National University of Singapore (NUS) pursuing my Bachelor in Business Analytics
+:yum: I'm Boon Long, currently a Sophomore at the National University of Singapore (NUS) pursuing my Bachelor in Business Analytics
 
 ✈️ I enjoy travelling and immersing myself in their culture and of course food🍴
 
