@@ -15,7 +15,7 @@ Staying fit and active is very important to me hence I gym 💪 regularly and pl
   &nbsp;
   <a href="https://www.java.com/en/" title="Java"><img src="svgs/java.svg" height="35" width="auto" /></a>
   &nbsp;
-  <a href="https://www.r-project.org" title="R"><img src="svgs/r.svg" height="35" width="auto" /></a>
+  <a href="https://www.r-project.org" title="R"><img src="svgs/R.png" height="35" width="auto" /></a>
   &nbsp;
   <a href="https://www.mysql.com" title="MySQL"><img src="svgs/mysql.svg" height="35" width="auto" /></a>
   &nbsp;
