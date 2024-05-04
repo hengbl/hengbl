@@ -4,7 +4,7 @@
 I'm Boon Long, currently a Sophomore at the National University of Singapore (NUS) pursuing my <ins>Bachelor of Science in Business Analytics</ins>
 - 🇸🇬 Aspiring _Data Scientist / Engineer_ based in Singapore
 - ✈️ _Travelling_ and _exploring cool cafes_ are my favourite past-time 
-- 🏋️ _Weight-lifting_ and _calisthenics_ keep me focused in my personal development
+- 🏋️ _Weight-lifting_ and _calisthenics_ keep me focused in my personal development and goals
 
 <br>
 
