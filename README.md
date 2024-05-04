@@ -1,15 +1,16 @@
 ### Hi there 👋
 
 ## :rocket: About Me 
-:yum: I'm Boon Long, currently a Sophomore at the National University of Singapore (NUS) pursuing my Bachelor in Business Analytics
+I'm Boon Long, currently a Sophomore at the National University of Singapore (NUS) pursuing my <ins>Bachelor of Science in Business Analytics</ins>
+- 🇸🇬 Aspiring _Data Scientist / Engineer_ based in Singapore
+- ✈️ _Travelling_ and _exploring cool cafes_ are my favourite past-time 
+- 🏋️ _Weight-lifting_ and _calisthenics_ keep me focused in my personal development
 
-✈️ I enjoy travelling and immersing myself in their culture and of course food🍴
+<br>
 
-Staying fit and active is very important to me hence I gym 💪 regularly and play floorball 🏑
+**Check out my favourite stacks below** 👇
 
-Check out my favourite stacks below 👇
-
-## My Stacks  💻
+## 💻 My Stacks  
 ### Programming, Scripting and Markup Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
@@ -51,10 +52,10 @@ Check out my favourite stacks below 👇
 
 ## 📈 My Stats 🔥
 ![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=hengbl&theme=tokyonight&background=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hengbl&layout=compact&theme=tokyonight)
 <br>
 ![Stats](https://github-readme-stats.vercel.app/api?username=hengbl&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hengbl&layout=compact&theme=tokyonight)
+
 <!--
 **hengbl/hengbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
