@@ -7,6 +7,8 @@
 
 Staying fit and active is very important to me hence I gym 💪 regularly and play floorball 🏑
 
+Check out my favourite stacks below 👇
+
 ## My Stacks  💻
 ### Programming, Scripting and Markup Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
