@@ -51,10 +51,8 @@ I'm Boon Long, currently a Sophomore at the National University of Singapore (NU
 ![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
 
 ## 📈 My Stats 🔥
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=hengbl&theme=tokyonight&background=000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hengbl&layout=compact&theme=tokyonight)
-<br>
-![Stats](https://github-readme-stats.vercel.app/api?username=hengbl&show_icons=true&theme=tokyonight)
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=hengbl&theme=radical&background=000000)
+![Stats](https://github-readme-stats.vercel.app/api?username=hengbl&show_icons=true&theme=radical)
 
 <!--
 **hengbl/hengbl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
